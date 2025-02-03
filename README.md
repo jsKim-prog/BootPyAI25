@@ -16,3 +16,6 @@
    * main.py 실행
    * Terminal에서 D:\phthonWorkSpace> uvicorn main:app --reload --port 8001 (위치확인)
 
+
+![image](https://github.com/user-attachments/assets/bcc2f490-91a2-410e-870e-b8e4ba8a58d5)
+
