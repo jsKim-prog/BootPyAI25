@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=BootPyAI25&textBg=false&fontColor=212121&fontSize=60&desc=스프링부트와%20파이썬%20AI%20협업모듈&descSize=16&fontAlignY=32&descAlignY=61)
+## **실시간 영상 스트리밍 서비스 서비스**
+![image](https://github.com/user-attachments/assets/491bead2-317a-4fe0-9e75-f8a799b5f382)
 
 ## **개발환경구축**
 1. 파이썬 인터프리터 : http://www.python.org/ -> 3.12버전 설치(3.8이상필수)
