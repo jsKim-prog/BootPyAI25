@@ -57,7 +57,7 @@ num_classes = len(class_names)  # 클래스 번호
 colors = get_colors(num_classes)  # 사각박스 컬러색
 
 client.on_connect = on_connect  # 클라이언트 연결정보
-cap = cv2.VideoCapture('rtsp://admin:mbc312AI!!@192.168.0.8:554/taem1')  # rtsp 정보(vms 참고)
+cap = cv2.VideoCapture('rtsp://admin:pw@ip:port/name')  # rtsp 정보(vms 참고)
 # https://deep-learning-study.tistory.com/107
 #cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
 #cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
